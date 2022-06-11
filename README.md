@@ -1,7 +1,5 @@
 ## Olá! Prazer, sou o Mengazo.
 
-- 👷 Atualmente trabalho com back-end
-
 <div align="center">
   <a href="https://github.com/mengazo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mengazo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
